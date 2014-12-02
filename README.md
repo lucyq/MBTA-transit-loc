@@ -8,6 +8,7 @@ Upon clicking on the stations, the name is displayed along with trains passing t
 The app relies on the GOoogle Maps API and real-time data from the Massachusetts Bay Transportation Authority.
 
 
+View the app at: http://lucyq.github.io/MBTA-transit-loc/
 
 
 Originally created as an assignment for the Web Programming course at Tufts University in March 2013
